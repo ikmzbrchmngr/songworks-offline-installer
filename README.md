@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Music+Composition-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Music+Notation-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Songworks Free Installer** — Songworks is a Windows music composition and notation software for songwriters and musicians. Works without internet access, no account required. Full offline installation.
+**💻 Songworks Free Installer** — Songworks is an accessible music composition and notation software for Windows that targets songwriters and casual musicians rather than professional engravers. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Songworks
 
-Songworks is a Windows music composition and notation software for songwriters and musicians. It provides melody and chord entry with playback, lyric alignment, and basic notation output — targeting musicians wanting to capture song ideas in notation form.
+Songworks is an accessible music composition and notation software for Windows that targets songwriters and casual musicians rather than professional engravers. Write melodies with a simple point-and-click interface, add chord symbols, lyrics, and basic arrangements, and print lead sheets for rehearsal or sharing. Songworks makes basic music notation accessible without the steep learning curve of professional notation software.
 
 ---
 
 ## ❌ Problem: Songworks is hard to access
 
-- **Windows Only** — No macOS or Linux version
-- **Basic Feature Set** — Less capable than MuseScore or Sibelius for complex arrangements
-- **Paid License** — Requires purchase
-- **Limited Export** — Output options less flexible than professional notation software
+- **Windows Only** — No macOS version
+- **Limited Professional Features** — Not suitable for complex orchestral scoring
+- **Commercial License** — Paid software
+- **Feature Comparison** — Professional features limited compared to Sibelius or Finale
 
 ---
 
@@ -121,7 +121,7 @@ Songworks is a Windows music composition and notation software for songwriters a
 
 ---
 
-**Songworks Free Installer** — Songworks is a Windows music composition and notation software for songwriters and musicians. Install without internet connection today!
+**Songworks Free Installer** — Songworks is an accessible music composition and notation software for Windows that targets songwriters and casual musicians rather than professional engravers. Install without internet connection today!
 
 <div align="center">
 
